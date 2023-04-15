@@ -2,12 +2,12 @@
 This project presents a humidity sensor, using the Arduino
 
 ## Materials used
-  LCD Display  
-  10KΩ Potentiometer  
-  Moisture sensor module  
-  Soil moisture sensor  
-  Leds  
-  Arduino UNO  
+  - LCD Display  
+  - 10KΩ Potentiometer  
+  - Moisture sensor module  
+  - Soil moisture sensor  
+  - Leds  
+  - Arduino UNO  
   
 
 ## The schematic:
